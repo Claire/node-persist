@@ -8,6 +8,8 @@
  * multiple requests.
  */
 
+//interesting example creates server to test with and uses the module to store
+
 var storage = require('../../src/node-persist');
 var http = require('http');
 
